@@ -1,3 +1,13 @@
+## Project Viewing Video:
+
+<br>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=IyBTVTReDlU
+" target="_blank"><img src="http://img.youtube.com/vi/IyBTVTReDlU/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="1920" height="1080" border="10" /></a>
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
